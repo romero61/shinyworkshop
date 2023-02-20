@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Scope+One&display=swap");
+h1 {
+  color: #a8328b;
+  font-family: "Scope One", cursive;
+}
+
+h3 {
+  color: #1aed41;
+}
+
+.box-body {
+  background-bg: #383391;
+}

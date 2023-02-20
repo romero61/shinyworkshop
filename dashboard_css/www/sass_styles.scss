@@ -1,0 +1,22 @@
+//fonts
+@import url('https://fonts.googleapis.com/css2?family=Scope+One&display=swap');
+
+$scopeone: "Scope One", cursive;
+//saas variables
+$pink: #a8328b;
+$blue: #383391;
+$green: #1aed41;
+
+//css rules 
+h1{
+  color: $pink;
+  font-family: $scopeone;
+}
+
+h3{
+  color: $green;
+}
+
+.box-body{
+  background-bg: $blue;
+}
